@@ -27,3 +27,10 @@ pip install flask flask_sqlalchemy flask_login flask_bcrypt flask_wtf wtforms em
 ```zsh
 python app.py
 ```
+## Credentials
+
+Username: demo123
+Password: fakepass123
+
+## Note
+To exit the Live Feed of web camera press 'q'.
