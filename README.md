@@ -1,7 +1,7 @@
 # MS_Engage22_FaceRecognition
 This is my submission for Microsoft Engage 2022, challenge taken is Challenge 1: Face Recognition.
 
-Video Demo: <br/>
+Video Demo: https://youtu.be/FTha1SHbD44 <br/>
 Click [here](https://drive.google.com/file/d/1zYGNFgYV_VYJas8NosinSNr2WfUqzuDG/view?usp=sharing) to know more about the Web-App 
 
 ## How to Run the Web-App
@@ -29,7 +29,7 @@ python app.py
 ```
 ## Credentials
 
-Username: demo123
+Username: demo123 <br/>
 Password: fakepass123
 
 ## Note
